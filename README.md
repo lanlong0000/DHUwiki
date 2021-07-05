@@ -7,6 +7,8 @@ pip install mkdocs
 mkdocs --version
 >> mkdocs, version 0.17.5
 
+mkdocs new <project name>
+
 mkdocs serve
 
 
